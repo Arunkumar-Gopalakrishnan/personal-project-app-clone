@@ -11,3 +11,5 @@ git add your file
 git commit -m 'message'
 
 git push
+
+git push done
